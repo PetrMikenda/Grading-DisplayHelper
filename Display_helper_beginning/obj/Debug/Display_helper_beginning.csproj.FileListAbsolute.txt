@@ -1,0 +1,7 @@
+C:\Users\miken\source\repos\Display_helper_beginning\Display_helper_beginning\obj\Debug\Display_helper_beginning.csprojAssemblyReference.cache
+C:\Users\miken\source\repos\Display_helper_beginning\Display_helper_beginning\obj\Debug\Display_helper_beginning.csproj.CoreCompileInputs.cache
+C:\Users\miken\source\repos\Display_helper_beginning\Display_helper_beginning\bin\Debug\Display_helper_beginning.exe.config
+C:\Users\miken\source\repos\Display_helper_beginning\Display_helper_beginning\bin\Debug\Display_helper_beginning.exe
+C:\Users\miken\source\repos\Display_helper_beginning\Display_helper_beginning\bin\Debug\Display_helper_beginning.pdb
+C:\Users\miken\source\repos\Display_helper_beginning\Display_helper_beginning\obj\Debug\Display_helper_beginning.exe
+C:\Users\miken\source\repos\Display_helper_beginning\Display_helper_beginning\obj\Debug\Display_helper_beginning.pdb

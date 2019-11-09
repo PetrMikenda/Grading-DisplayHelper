@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\miken\\source\\repos\\Display Helper + Grading\\Grading\\02Grading.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\miken\\source\\repos\\Display Helper + Grading\\Grading\\02Grading.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\miken\\source\\repos\\Display Helper + Grading\\Grading\\02Grading.csproj",
+        "projectName": "02Grading",
+        "projectPath": "C:\\Users\\miken\\source\\repos\\Display Helper + Grading\\Grading\\02Grading.csproj",
+        "packagesPath": "C:\\Users\\miken\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\miken\\source\\repos\\Display Helper + Grading\\Grading\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\miken\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\miken\\source\\repos\\Display_helper_beginning\\Display_helper_beginning\\Display_helper_beginning.csproj": {
+                "projectPath": "C:\\Users\\miken\\source\\repos\\Display_helper_beginning\\Display_helper_beginning\\Display_helper_beginning.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\miken\\source\\repos\\Display_helper_beginning\\Display_helper_beginning\\Display_helper_beginning.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\miken\\source\\repos\\Display_helper_beginning\\Display_helper_beginning\\Display_helper_beginning.csproj",
+        "projectName": "Display_helper_beginning",
+        "projectPath": "C:\\Users\\miken\\source\\repos\\Display_helper_beginning\\Display_helper_beginning\\Display_helper_beginning.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
