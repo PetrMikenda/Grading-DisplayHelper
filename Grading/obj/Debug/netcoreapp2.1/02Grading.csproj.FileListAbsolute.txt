@@ -13,3 +13,18 @@ C:\Users\miken\Source\Repos\2019P2CSharpBasics\Grading\obj\Debug\netcoreapp2.1\0
 C:\Users\miken\Source\Repos\2019P2CSharpBasics\Grading\bin\Debug\netcoreapp2.1\Display_helper_beginning.exe
 C:\Users\miken\Source\Repos\2019P2CSharpBasics\Grading\bin\Debug\netcoreapp2.1\Display_helper_beginning.pdb
 C:\Users\miken\Source\Repos\2019P2CSharpBasics\Grading\bin\Debug\netcoreapp2.1\Display_helper_beginning.exe.config
+C:\Users\miken\source\repos\Display Helper + Grading\Grading\bin\Debug\netcoreapp2.1\02Grading.deps.json
+C:\Users\miken\source\repos\Display Helper + Grading\Grading\bin\Debug\netcoreapp2.1\02Grading.runtimeconfig.json
+C:\Users\miken\source\repos\Display Helper + Grading\Grading\bin\Debug\netcoreapp2.1\02Grading.runtimeconfig.dev.json
+C:\Users\miken\source\repos\Display Helper + Grading\Grading\bin\Debug\netcoreapp2.1\02Grading.dll
+C:\Users\miken\source\repos\Display Helper + Grading\Grading\bin\Debug\netcoreapp2.1\02Grading.pdb
+C:\Users\miken\source\repos\Display Helper + Grading\Grading\bin\Debug\netcoreapp2.1\Display_helper_beginning.exe
+C:\Users\miken\source\repos\Display Helper + Grading\Grading\bin\Debug\netcoreapp2.1\Display_helper_beginning.pdb
+C:\Users\miken\source\repos\Display Helper + Grading\Grading\bin\Debug\netcoreapp2.1\Display_helper_beginning.exe.config
+C:\Users\miken\source\repos\Display Helper + Grading\Grading\obj\Debug\netcoreapp2.1\02Grading.csprojAssemblyReference.cache
+C:\Users\miken\source\repos\Display Helper + Grading\Grading\obj\Debug\netcoreapp2.1\02Grading.csproj.CoreCompileInputs.cache
+C:\Users\miken\source\repos\Display Helper + Grading\Grading\obj\Debug\netcoreapp2.1\02Grading.AssemblyInfoInputs.cache
+C:\Users\miken\source\repos\Display Helper + Grading\Grading\obj\Debug\netcoreapp2.1\02Grading.AssemblyInfo.cs
+C:\Users\miken\source\repos\Display Helper + Grading\Grading\obj\Debug\netcoreapp2.1\02Grading.csproj.CopyComplete
+C:\Users\miken\source\repos\Display Helper + Grading\Grading\obj\Debug\netcoreapp2.1\02Grading.dll
+C:\Users\miken\source\repos\Display Helper + Grading\Grading\obj\Debug\netcoreapp2.1\02Grading.pdb
